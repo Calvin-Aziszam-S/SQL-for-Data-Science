@@ -16,3 +16,5 @@ The first section of this boot camp is about learning and implementing SQL to re
 This mini SQL portfolio implements basic level SQL queries, intermediate level SQL queries, and advanced SQL queries.
 
 In this section, MySkill team gave us two case studies that we had to work on using SQL queries. To see what I have done for the project, see attached SQL script.
+
+To see the full explanation about this project, you can visit the Medium post about this repository [here](https://medium.com/@aziszamcalvin/sql-for-data-science-f19d7b692456).
